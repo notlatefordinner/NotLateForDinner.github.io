@@ -11,7 +11,7 @@ width: 98%;
 max-width: 720px;
 margin: 0 auto;
   p {text-align: left;}
-  p{margin 5px;}
+  p{margin: 5px;}
 
   background-color: rgb(245,251,245);
 border: 8px solid #ccc;
