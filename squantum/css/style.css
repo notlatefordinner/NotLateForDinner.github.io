@@ -1,5 +1,6 @@
 body{
 background-color: rgb(245,215,235);
+  .tt {font-family:monospace}
 }
 img{
 max-width: 100%;
