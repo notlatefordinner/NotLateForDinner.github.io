@@ -7,10 +7,11 @@ max-width: 100%;
 }
 /*h1{color: rgb(122,18,67);}*/
 .container {
-    background-color: rgb(245,251,245);
+background-color: rgb(245,251,245);
 width: 98%;
 max-width: 720px;
+padding: 5px;
 margin: 0 auto;
- text-align: justify;
+text-align: justify;
 border: 8px solid #ccc;
 }
