@@ -12,5 +12,5 @@ max-width: 720px;
 margin: 0 auto;
 
   background-color: rgb(245,251,245);
-border: 8px;
+border: 8px solid #ccc;
 }
