@@ -1,5 +1,5 @@
 body{
-background-color: rgb(245,215,235);
+
   .tt {font-family:monospace}
 }
 img{
@@ -10,5 +10,6 @@ h1{color: rgb(122,18,67);}
 width: 90%;
 max-width: 600px;
 margin: 0 auto
+  background-color: rgb(245,215,235);
 /* border: 1px dotted #ccc;*/
 }
