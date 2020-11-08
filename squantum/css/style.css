@@ -1,16 +1,16 @@
 body{
-  background-color: rgb(147,201,162);
+  background-color: rgb(142,173,151);
   .tt {font-family:monospace}
 }
 img{
 max-width: 100%;
 }
-h1{color: rgb(122,18,67);}
+/*h1{color: rgb(122,18,67);}*/
 .container {
 width: 98%;
 max-width: 720px;
 margin: 0 auto;
 
-  background-color: rgb(247,247,215);
+  background-color: rgb(245,251,245);
 /*border: 10px dotted #ccc;*/
 }
