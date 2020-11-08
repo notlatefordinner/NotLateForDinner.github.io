@@ -8,6 +8,7 @@ max-width: 100%;
 /*h1{color: rgb(122,18,67);}*/
 .container {
 background-color: rgb(245,251,245);
+text-indent : 30px;
 width: 98%;
 max-width: 720px;
 padding: 5px;
