@@ -12,7 +12,5 @@ width: 98%;
 max-width: 720px;
 margin: 0 auto;
  text-align: justify;
-  p {margin: 5px;}
-
 border: 8px solid #ccc;
 }
